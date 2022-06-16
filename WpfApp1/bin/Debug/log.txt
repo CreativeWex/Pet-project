@@ -1,0 +1,2 @@
+[WIN-GO2745HAP4S]	17.06.2022 0:33:54		: program finished successfully
+[WIN-GO2745HAP4S]	17.06.2022 0:33:54		: connected to database
